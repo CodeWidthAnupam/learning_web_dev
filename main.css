@@ -1,0 +1,9 @@
+body {
+  background-color: #F0A6CA;
+}
+#dona {
+  color: #F5AC72;
+  background-color: #934010;
+  border: 2px solid yellow;
+  padding: 5px;
+}
